@@ -2070,3 +2070,9 @@
 .flag-icon-os.flag-icon-squared {
   background-image: url(../flags/1x1/os.svg);
 }
+.flag-icon-ab {
+  background-image: url(../flags/4x3/ab.svg);
+}
+.flag-icon-ab.flag-icon-squared {
+  background-image: url(../flags/1x1/ab.svg);
+}
